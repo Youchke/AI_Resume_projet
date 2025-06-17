@@ -9,10 +9,6 @@ Compatible avec de nombreux formats d’entrée et plusieurs langues, l’outil 
 ![Interface principale](./assets/images/generale_interface1.png)
 ![Interface principale](./assets/images/generale_interface2.png)
 
-*### Démonstration en action*
-*![Demo GIF](./assets/images/demo.gif)*
-
-*Processus complet : de l'upload à la génération du résumé*
 
 ## ✨ Fonctionnalités principales
 
